@@ -1,0 +1,24 @@
+#intro {
+	color: black;
+	background-color: grey;
+}
+
+/*p {
+   color:white;
+   background-color:red;
+   font-size: 150%;
+}*/
+
+h1 {
+	text-align: center;
+}
+
+#check .first em{
+	color: pink;
+	background-color: black;
+	background-size: 50%;
+}
+
+#streamvid {
+	src="Streamcompilation vol. 1.mp4" type="video/mp4"
+}
